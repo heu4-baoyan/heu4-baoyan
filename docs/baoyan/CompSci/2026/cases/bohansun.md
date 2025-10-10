@@ -9,8 +9,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;CET4 596 | CET6 518
 
 **竞赛:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-全国大学生数学竞赛省一等奖
-&nbsp;&nbsp;&nbsp;&nbsp;-美国大学生数学建模比赛H奖
+&nbsp;&nbsp;&nbsp;&nbsp;-全国大学生数学竞赛省一等奖<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;-美国大学生数学建模比赛H奖<br>
 
 **科研:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- [MCF-SVC: Zero-shot High-Fidelity Singing Voice Conversion with Multi-Condition Flow Synthesis ](http://poster-openaccess.com/files/ICIC2025/2517.pdf#:~:text=In%20this%20paper%2C%20we%20propose%20a%20high-fidelity%20flow-based,voice%20details%20by%20integrating%20multiple%20latent%20attribute%20encoders.)（第三作者，ICIC 2025，CCF-C会议）<br>
