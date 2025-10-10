@@ -13,8 +13,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;-2024年全国大学生英语竞赛C类国家二等奖<br>
 
 **科研:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- 第二作者，发表2025 IEEE International Conference on Mechatronics and Automation (ICMA) 会议论文一篇
-授权实用新型专利一项
+&nbsp;&nbsp;&nbsp;&nbsp;- 第二作者，发表2025 IEEE International Conference on Mechatronics and Automation (ICMA) 会议论文一篇<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 授权实用新型专利一项
 
 **项目:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 国家大学生创新训练计划项目——“腿-爪复用抓取型水下机器人”，独立负责机器人控制系统中感知层与执行层的设计与实现，以及电机驱动和水下深度控制算法的设计与开发；参与上位机软件的开发，负责构建基于视觉的图像识别模块和运动控制决策节点，提出了一种结合水下动力学特性的水下机器人感知抓取模式。
