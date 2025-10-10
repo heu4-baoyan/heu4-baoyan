@@ -86,7 +86,7 @@ hr.narrow {margin: 0 10px}
   tr:hover {background-color: #ddd;}
 </style>
 
-欢迎！HEU 4系保研录是一份汇聚哈尔滨工程大学智能科学与工程学院往年学长学姐保研经历及去向的案例向经验分享网站。由HEU 4系保研平台建设团队创立并提供平台支持，如果你对参与平台建设与维护感兴趣，欢迎email:<a href="mailto:heu4_baoyan@163.com">heu4_baoyan@163.com</a>！
+欢迎！HEU 4系保研录是一份汇聚哈尔滨工程大学智能科学与工程学院往年学长学姐保研经历及去向的案例向经验分享网站。由HEU 4系保研平台建设团队创立并提供平台支持，如果你对参与平台建设与维护感兴趣，欢迎email: <a href="mailto:heu4_baoyan@163.com">heu4_baoyan@163.com</a>！
 
 
 ## 贡献方式
