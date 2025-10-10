@@ -11,4 +11,6 @@
 
 - [孙博涵 - 中科院自动化所(国科大叉院)直博](./CompSci/2026/cases/bohansun.md)<br>
 
+- [冬玉 - 大连理工大学 控制科学与工程学院 控制科学与工程](./CompSci/2026/cases/dongyu.md)<br>
+
 - [薛允阁 - 中国航天科工集团第三研究院](./CompSci/2026/cases/yungexue.md)<br>
