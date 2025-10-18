@@ -1,4 +1,4 @@
-# 孙博涵<br>中国科学院自动化研究所（前沿交叉科学学院）<br>计算机科学与技术 直博<br>2026届, 机器人工程专业
+# 孙博涵<br>中国科学院大学 前沿交叉科学学院（自动化研究所）<br>计算机科学与技术 直博<br>2026届, 机器人工程专业
 > 人总是会高估自己一天能做的事情，低估一年可以做的事情<br>
 
 ## 背景
@@ -16,20 +16,20 @@
 **科研:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- [MCF-SVC: Zero-shot High-Fidelity Singing Voice Conversion with Multi-Condition Flow Synthesis ](http://poster-openaccess.com/files/ICIC2025/2517.pdf#:~:text=In%20this%20paper%2C%20we%20propose%20a%20high-fidelity%20flow-based,voice%20details%20by%20integrating%20multiple%20latent%20attribute%20encoders.)（第三作者，ICIC 2025，CCF-C会议）<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;- [SpikingBrain Technical Report: Spiking Brain-inspired Large Models](https://github.com/BICLab/SpikingBrain-7B)（第六作者，Github 1k stars，纯技术报告）<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- [SpikingBrain Technical Report: Spiking Brain-inspired Large Models](https://github.com/BICLab/SpikingBrain-7B)（第六作者，Github 1k stars，技术报告）<br>
 
 **实习:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- 中国科学院自动化研究所 类脑通用智能大模型北京市重点实验室, 科研实习生, 一年
 
 **项目:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- 中科院自动化所&字节跳动 线性架构大模型：<br>
-构造人工数据集，并在训练不同阶段中验证；理论分析线性架构中状态利用率低的问题，提出层状态传递架构，跟字节团队合作验证<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 中科院自动化所 线性架构大模型：<br>
+构造人工数据集，并在训练不同阶段中验证；理论分析线性架构中状态利用率低的问题，探索层状态传递架构<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;- 中科院自动化所&沐曦科技 类脑大模型（spiking brain1.0）：<br>
-担任部署负责人，与沐曦科技合作在国产GPU上适配分布式系统。参与架构、算子适配、训练、测评的部分工作，并参与撰写技术报告。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 中科院自动化所 类脑大模型（spiking brain1.0）：<br>
+主要负责部署工作，与沐曦科技合作在国产GPU上适配分布式系统。参与架构、算子适配、测评的部分工作，并参与撰写技术报告。<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;- 上海交通大学&哈尔滨工程大学 唱歌语音转换：<br>
-在学长指导下完成实验和论文写作，在保持转换速度的同时提升生成自然度和相似度。<br>
+在指导下完成实验和论文写作，在保持转换速度的同时提升生成自然度和相似度。<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;- 哈尔滨工程大学 多模态数字人：<br>
 国创负责人，复现fay数字人API框架并在UE上部署。<br>
@@ -178,7 +178,7 @@ tele ai今年第二届招收联培直博生，和清华计算机、自动化、�
 
 大三开始后我复现了某数字人的API框架作为国创项目，锻炼了一点动手能力。然后在非常机缘巧合的机会下，从小红书上刷到了我现在博士所在课题组的科研实习生招聘帖子，又非常幸运地通过了面试，开始了我长达一年的线上实习。起初学了非常多的东西，看了非常多的论文和代码：大模型入门的基础知识、线性大模型的基础知识和发展脉络、用triton和cuda实现算子、并行计算与通信机制...整理了很多论文笔记，手推了很多公式，敲了很多代码和伪代码。
 
-大三下开始参与到了师兄在字节豆包实习的工作中，动手训+测了一些模型，并针对线性大模型的recall问题提出了一个人造数据集+架构改造，尝试对线性大模型中的state本质剖析并精细化建模，就多做了些理论分析的工作，战线拉的比较长没有急着投出去，但在保研中发挥了非常大的作用（即使连在投都没有，但是工作量和思考量在，一样会被老师看到的）
+大三下开始参与到了师兄的工作中，针对线性大模型的问题提出了人造数据集+架构改造，尝试对线性大模型中的state多做些理论分析的工作（即使连在投都没有，但是工作量和思考量在，一样会被老师看到的）
 
 但同时也开始焦虑：自所纯强com，入营导师捞不了我。害怕自己留不到组里，便在2月份开始了漫长了陶瓷之旅：前后联系了六七十个感兴趣的老师（因为本科涉猎的东西比较广，所以对很多领域都有些了解和思考），面了十多个老师，参加了若干考核。在自所打工之余还在清华干了两个月，在浙大干了两周，南大干了两周。面试和陶瓷经验我记录在[小红书](https://www.xiaohongshu.com/explore/6829e4ca0000000022037980?xsec_token=ABTSTkt4gY5y5RNfjcQWYxIKoOjWDkaSA3F-Jf5X6VkaQ=&xsec_source=pc_user)里，大家可以自取.
 

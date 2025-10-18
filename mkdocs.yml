@@ -1,4 +1,4 @@
-site_name: HEU 4系保研录
+site_name: HEU 4系保研手册
 site_author: heu4-baoyan team
 site_url: https://heu4-baoyan.github.io/heu4-baoyan/
 copyright: 'Copyright &copy; heu4-baoyan team'
@@ -10,6 +10,7 @@ nav:
     - baoyan/index.md
     - 2026 自动化 葛庭瑄: baoyan/CompSci/2026/cases/tingxuange.md
     - 2026 自动化 李金彦: baoyan/CompSci/2026/cases/jinyanli.md
+    - 2026 探测制导与控制技术 陈治金: baoyan/CompSci/2026/cases/zhijinchen.md
     - 2026 机器人工程 孙博涵: baoyan/CompSci/2026/cases/bohansun.md
     - 2026 机器人工程 冬玉: baoyan/CompSci/2026/cases/dongyu.md
     - 2026 机器人工程 薛允阁: baoyan/CompSci/2026/cases/yungexue.md
