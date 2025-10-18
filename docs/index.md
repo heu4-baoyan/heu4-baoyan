@@ -91,7 +91,7 @@ hr.narrow {margin: 0 10px}
 ## 手册的故事
 > 一届有一届的弯路，但我们希望起码前人走过的弯路，后人不必再走。这是我们共同的信念。
 
-手册于2025年10月诞生，由2026届毕业生孙博涵创立并组建团队。受[清华大学飞跃手册](https://github.com/THU-feiyue/docs)、[南方科技大学飞跃手册](https://github.com/SUSTech-Application/SUSTechapplication)、[深圳大学飞跃手册](https://github.com/SZU-FeiYue/docs)等项目的启发，希望建立一个这样的平台将过往前人的经验和想法记录下来，变为公开的、易于获取的资料。
+手册于2025年10月诞生，由2026届毕业生孙博涵创立并组建团队。受[清华大学飞跃手册](https://feiyue.online/)、[南方科技大学飞跃手册](https://sustech-application.com/)、[深圳大学飞跃手册](https://szu-feiyue.github.io/)等项目的启发，希望建立一个这样的平台将过往前人的经验和想法记录下来，变为公开的、易于获取的资料。
 
 大家都曾有过迷茫和焦虑的低谷期，过去有，现在有，以后也还会有。但希望手册可以带给屏幕前的你一些慰藉和抓手：你从来不是孤身一人。
 
