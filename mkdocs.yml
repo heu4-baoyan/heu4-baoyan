@@ -10,10 +10,11 @@ nav:
     - baoyan/index.md
     - 2026 自动化 葛庭瑄: baoyan/CompSci/2026/cases/tingxuange.md
     - 2026 自动化 李金彦: baoyan/CompSci/2026/cases/jinyanli.md
-    - 2026 探测制导与控制技术 陈治金: baoyan/CompSci/2026/cases/zhijinchen.md
+    - 2026 探测制导与控制技术 橙子: baoyan/CompSci/2026/cases/zhijinchen.md
     - 2026 机器人工程 孙博涵: baoyan/CompSci/2026/cases/bohansun.md
     - 2026 机器人工程 冬玉: baoyan/CompSci/2026/cases/dongyu.md
     - 2026 机器人工程 薛允阁: baoyan/CompSci/2026/cases/yungexue.md
+    - 2026 人工智能 柳佳睦: baoyan/CompSci/2026/cases/jiamuliu.md
 
 theme:
   name: material
