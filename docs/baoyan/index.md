@@ -20,6 +20,10 @@
 
 - [薛允阁 - 中国航天科工集团|第三研究院|光学工程|学硕](./CompSci/2026/cases/yungexue.md)<br>
 
+- [HEU牢玩家 - 哈尔滨工程大学|智能科学与工程学院|控制科学与工程|学硕](./CompSci/2026/cases/laowanjia.md)<br>
+
 **人工智能专业：**<br>
 
 - [ 柳佳睦 – 同济大学|电子与信息工程学院|电子信息（人工智能与自动化方向）|专硕](./CompSci/2026/cases/jiamuliu.md)<br>
+
+- [ 张金浩 – 西安交通大学|人工智能学院|人工智能|专硕](./CompSci/2026/cases/jinhaozhang.md)<br>
