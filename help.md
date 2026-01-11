@@ -10,7 +10,7 @@ git add -A
 # 4 正确提交（注意是 git 空格 commit，再用 -m）
 git commit -m "feat: 更新文档与配置"
 
-# 5 若需要先同步远程再推送（避免冲突）
+# 5 若需要先同步远程再推送（避免冲突） 也可以不用
 git pull --rebase origin main
 
 # 6 推送到 GitHub
