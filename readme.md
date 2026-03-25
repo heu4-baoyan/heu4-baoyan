@@ -1,8 +1,16 @@
 # HEU 4系保研手册
 
-**戳[此处](https://heu4-baoyan.github.io/heu4-baoyan/)进入手册**
+---
 
-欢迎！HEU 4系保研手册是一份汇聚哈尔滨工程大学智能科学与工程学院往年学长学姐保研经历及去向的案例向经验分享网站。本手册使用 [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/) 构建，在 [GitHub](https://github.com/heu4-baoyan/heu4-baoyan) 上开源，使用 GitHub Pages 公开发布。内容由[HEU 4系保研平台建设团队](.\baoyan\contributor.md)收集、编写、审核、发布并维护。如果你对参与平台建设与维护感兴趣，欢迎email: <a href="mailto:heu4_baoyan@163.com">heu4_baoyan@163.com</a>！
+🔗**戳[此处](https://heu4-baoyan.github.io/heu4-baoyan/)进入手册**
+
+---
+
+欢迎！HEU 4系保研手册是一份汇聚哈尔滨工程大学智能科学与工程学院往年学长学姐保研经历及去向的案例向经验分享网站。本手册使用 [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/) 构建，在 [GitHub](https://github.com/heu4-baoyan/heu4-baoyan) 上开源，使用 GitHub Pages 公开发布。内容由[HEU 4系保研平台建设团队](.\baoyan\contributor.md)收集、编写、审核、发布并维护。
+
+📫如果你对参与平台建设与维护感兴趣，欢迎email: <a href="mailto:heu4_baoyan@163.com">heu4_baoyan@163.com</a>！
+
+---
 
 ## 手册的故事
 > 一届有一届的弯路，但我们希望起码前人走过的弯路，后人不必再走。这是我们共同的信念。
@@ -12,6 +20,8 @@
 大家都曾有过迷茫和焦虑的低谷期，过去有，现在有，以后也还会有。但希望手册可以带给屏幕前的你一些慰藉和抓手：你从来不是孤身一人。
 
 但也切勿盲目相信经验主义，武断地复刻前人经历。请保持敬畏和好奇心，并拥抱不确定性，请相信可以做得比你想象中更好。
+
+---
 
 ## 贡献方式
 > 化成光照耀后来者
@@ -27,6 +37,8 @@
 
 
 如果您不习惯于使用 Github 或者是不喜欢 `.txt` 语言格式，可以直接以你习惯的文档形式（any, e.g. `.md` / word `.docx` / `.pdf`）。
+
+---
 
 ## 声明
 
