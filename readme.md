@@ -1,6 +1,6 @@
 # HEU 4系保研手册
 
-戳[此处](https://heu4-baoyan.github.io/heu4-baoyan/)进入手册
+**戳[此处](https://heu4-baoyan.github.io/heu4-baoyan/)进入手册**
 
 欢迎！HEU 4系保研手册是一份汇聚哈尔滨工程大学智能科学与工程学院往年学长学姐保研经历及去向的案例向经验分享网站。本手册使用 [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/) 构建，在 [GitHub](https://github.com/heu4-baoyan/heu4-baoyan) 上开源，使用 GitHub Pages 公开发布。内容由[HEU 4系保研平台建设团队](.\baoyan\contributor.md)收集、编写、审核、发布并维护。如果你对参与平台建设与维护感兴趣，欢迎email: <a href="mailto:heu4_baoyan@163.com">heu4_baoyan@163.com</a>！
 
