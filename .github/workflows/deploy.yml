@@ -1,0 +1,33 @@
+name: Deploy MkDocs to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # 你的Python版本，一般3.x都可以
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt # 自动读取你项目里的依赖
+
+      - name: Build MkDocs
+        run: mkdocs build # 将docs文件夹里的md编译成静态网页到site文件夹
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site # 你的截图里有site文件夹，说明编译产物在site里
