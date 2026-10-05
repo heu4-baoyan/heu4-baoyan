@@ -19,8 +19,8 @@ nav:
     - 2026 机器人工程 HEU牢玩家: baoyan/CompSci/2026/cases/laowanjia.md
     - 2026 人工智能 柳佳睦: baoyan/CompSci/2026/cases/jiamuliu.md
     - 2026 人工智能 张金浩: baoyan/CompSci/2026/cases/jinhaozhang.md
-    - 2027 自动化 韩博彦 baoyan/CompSci/2027/cases/boyanhan.md
-    - 2027 人工智能 爱打游戏的波奇 baoyan/CompSci/2027/cases/boqi.md
+    - 2027 自动化 韩博彦: baoyan/CompSci/2027/cases/boyanhan.md
+    - 2027 人工智能 爱打游戏的波奇: baoyan/CompSci/2027/cases/boqi.md
 
 theme:
   name: material
