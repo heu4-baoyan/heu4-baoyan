@@ -39,6 +39,10 @@
 
 - [ 韩博彦 - 浙江大学|电气工程学院|控制理论与控制工程|直博](./CompSci/2027/cases/boyanhan.md)<br>
 
+**探测制导与控制专业：**<br>
+
+- [ 鲨叉 – 浙江大学|控制科学与工程学院|电子信息|专硕](./CompSci/2027/cases/linhaoshi.md)<br>
+
 **人工智能专业**<br>
 
 - [ 爱打游戏的波奇 – 同济大学|ailab同济联培|智能科学与技术|直博](./CompSci/2027/cases/boqi.md)<br>
